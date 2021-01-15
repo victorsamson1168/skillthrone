@@ -1,0 +1,48 @@
+
+    .parent-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .cn{
+          text-align: center;
+      }
+
+      @media only screen and (max-device-width: 480px) {
+          .parent-container{
+              text-align: center;
+          }
+     }    
+     table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      td, th {
+        border: 0px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+        margin: auto;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #dddddd;
+      }
+
+      .g{
+          position: absolute;
+          bottom: 0px;
+      }
+      .in{
+          position: relative;
+          margin:10px;
+      }
+      div.spa{height: 15px;
+      }
+      .fon{
+        font-family: 'Berkshire Swash', cursive;
+        font-size: 2rem;
+      }
+
+   
