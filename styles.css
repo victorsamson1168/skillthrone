@@ -44,5 +44,8 @@
         font-family: 'Berkshire Swash', cursive;
         font-size: 2rem;
       }
+      .tab{
+          overflow-x: auto;
+      }
 
    
