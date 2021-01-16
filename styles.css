@@ -24,6 +24,7 @@
         text-align: left;
         padding: 8px;
         margin: auto;
+        text-align: center;
       }
       
       tr:nth-child(even) {
@@ -46,6 +47,10 @@
       }
       .tab{
           overflow-x: auto;
+      }
+      .sp{
+        color: red;
+        font-weight: bold;
       }
 
 
